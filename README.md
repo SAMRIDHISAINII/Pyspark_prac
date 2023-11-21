@@ -1,2 +1,2 @@
 # Data-Engineering-project
-this wwill show case my knowlege of python sql pyspark 
+this will showcase my knowledge of python sql pyspark 
