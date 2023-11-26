@@ -1,2 +1,3 @@
 # Data-Engineering-project
-this will showcase my knowledge of python sql pyspark 
+this will showcase my knowledge of Python SQL pyspark sqlite and all
+
